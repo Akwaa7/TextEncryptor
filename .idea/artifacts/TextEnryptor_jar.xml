@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TextEnryptor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TextEnryptor_jar</output-path>
+    <root id="archive" name="TextEnryptor.jar">
+      <element id="module-output" name="TextEnryptor" />
+    </root>
+  </artifact>
+</component>
